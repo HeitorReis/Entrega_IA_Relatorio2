@@ -1,0 +1,161 @@
+param1,param2,param3,code
+O município foi atingido pela seca nos últimos 4 anos,,,MGRD01
+O município foi atingido pela seca nos últimos 4 anos,Ano em que aconteceu a seca de maior impacto para o município,,MGRD02
+O município foi atingido pela seca nos últimos 4 anos,No ano de seca de maior impacto para o município ocorreram,Perdas financeiras,MGRD031
+O município foi atingido pela seca nos últimos 4 anos,No ano de seca de maior impacto para o município ocorreram,Perdas humanas,MGRD032
+O município foi atingido pela seca nos últimos 4 anos,No ano de seca de maior impacto para o município ocorreram,Perdas de animais,MGRD033
+O município foi atingido pela seca nos últimos 4 anos,No ano de seca de maior impacto para o município ocorreram,Perdas ambientais,MGRD034
+O município foi atingido pela seca nos últimos 4 anos,No ano de seca de maior impacto para o município ocorreram,Perda ou redução da produção agrícola,MGRD035
+O município foi atingido pela seca nos últimos 4 anos,No ano de seca de maior impacto para o município ocorreram,Surgimento ou aumento de área de desertificação,MGRD036
+O município foi atingido pela seca nos últimos 4 anos,No ano de seca de maior impacto para o município ocorreram,Concentração de poluentes na água exigindo ampliação na captação e no tratamento da água,MGRD037
+O município foi atingido pela seca nos últimos 4 anos,No ano de seca de maior impacto para o município ocorreram,Outras,MGRD038
+O município foi atingido pela seca nos últimos 4 anos,No ano de seca de maior impacto para o município ocorreram,Não sabe informar,MGRD039
+O município foi atingido pela seca nos últimos 4 anos,O que está sendo feito no município para evitar ou minimizar os danos causados pela seca,Construção de cisternas,MGRD041
+O município foi atingido pela seca nos últimos 4 anos,O que está sendo feito no município para evitar ou minimizar os danos causados pela seca,Construção de açudes,MGRD042
+O município foi atingido pela seca nos últimos 4 anos,O que está sendo feito no município para evitar ou minimizar os danos causados pela seca,Construção de barragens,MGRD043
+O município foi atingido pela seca nos últimos 4 anos,O que está sendo feito no município para evitar ou minimizar os danos causados pela seca,Construção de poços,MGRD044
+O município foi atingido pela seca nos últimos 4 anos,O que está sendo feito no município para evitar ou minimizar os danos causados pela seca,Revegetação,MGRD045
+O município foi atingido pela seca nos últimos 4 anos,O que está sendo feito no município para evitar ou minimizar os danos causados pela seca,"Incentivo público à agricultura adaptada ao clima e solo da região, com sistemas de irrigação",MGRD046
+O município foi atingido pela seca nos últimos 4 anos,O que está sendo feito no município para evitar ou minimizar os danos causados pela seca,Distribuição regular de água através de carros-pipa em épocas de estiagem (situações de emergência),MGRD047
+O município foi atingido pela seca nos últimos 4 anos,O que está sendo feito no município para evitar ou minimizar os danos causados pela seca,"Ações de uso sustentável dos recursos naturais (fontes de energia eólica ou solar, planos de bacia, programas de conscientização e sensibilização, etc.)",MGRD048
+O município foi atingido pela seca nos últimos 4 anos,O que está sendo feito no município para evitar ou minimizar os danos causados pela seca,Outras,MGRD049
+O município foi atingido pela seca nos últimos 4 anos,O que está sendo feito no município para evitar ou minimizar os danos causados pela seca,Não sabe informar,MGRD0410
+O município possui Plano de Contingência e/ou Preservação para a seca,,,MGRD05
+O município foi atingido por alagamentos nos últimos 4 anos,,,MGRD06
+O município foi atingido por processo erosivo acelerado nos últimos 4 anos,,,MGRD07
+O município foi atingido por enchentes ou inundações graduais nos últimos 4 anos,,,MGRD08
+Em que ano aconteceu a enchente ou inundação gradual de maior impacto para o município,,,MGRD09
+No ano de enchente ou inundação gradual de maior impacto para o município,Edificações foram atingidas,,MGRD101
+No ano de enchente ou inundação gradual de maior impacto para o município,Edificações foram atingidas,Área atingida,MGRD1011
+No ano de enchente ou inundação gradual de maior impacto para o município,Pessoas foram desalojadas ou ficaram desabrigadas,,MGRD102
+No ano de enchente ou inundação gradual de maior impacto para o município,Pessoas foram desalojadas ou ficaram desabrigadas,Área de desalojamento ou desabrigo,MGRD1021
+No ano de enchente ou inundação gradual de maior impacto para o município,Ocorreram óbitos,,MGRD103
+No ano de enchente ou inundação gradual de maior impacto para o município,Ocorreram óbitos,Área dos óbitos,MGRD1031
+No ano de enchente ou inundação gradual de maior impacto para o município,Áreas do município em que ocorreram as enchentes ou inundações graduais,Naturalmente inundáveis,MGRD1041
+No ano de enchente ou inundação gradual de maior impacto para o município,Áreas do município em que ocorreram as enchentes ou inundações graduais,Não usualmente inundáveis,MGRD1042
+No ano de enchente ou inundação gradual de maior impacto para o município,Áreas do município em que ocorreram as enchentes ou inundações graduais,Com ocupações regulares,MGRD1043
+No ano de enchente ou inundação gradual de maior impacto para o município,Áreas do município em que ocorreram as enchentes ou inundações graduais,Com ocupações irregulares,MGRD1044
+No ano de enchente ou inundação gradual de maior impacto para o município,Áreas do município em que ocorreram as enchentes ou inundações graduais,Com existência de processo erosivo acelerado,MGRD1045
+No ano de enchente ou inundação gradual de maior impacto para o município,Áreas do município em que ocorreram as enchentes ou inundações graduais,Outras áreas,MGRD1046
+No ano de enchente ou inundação gradual de maior impacto para o município,Áreas do município em que ocorreram as enchentes ou inundações graduais,Não sabe,MGRD1047
+No ano de enchente ou inundação gradual de maior impacto para o município,Ações para evitar ou minimizar os danos causados por enchentes ou inundações graduais,Barragem à montante para equalização das cheias,MGRD1051
+No ano de enchente ou inundação gradual de maior impacto para o município,Ações para evitar ou minimizar os danos causados por enchentes ou inundações graduais,Construção de canais de macrodrenagens,MGRD1052
+No ano de enchente ou inundação gradual de maior impacto para o município,Ações para evitar ou minimizar os danos causados por enchentes ou inundações graduais,Construção de parque,MGRD1053
+No ano de enchente ou inundação gradual de maior impacto para o município,Ações para evitar ou minimizar os danos causados por enchentes ou inundações graduais,Construção de reservatórios de amortecimento de cheias,MGRD1054
+No ano de enchente ou inundação gradual de maior impacto para o município,Ações para evitar ou minimizar os danos causados por enchentes ou inundações graduais,Desassoreamento de corpos hídricos,MGRD1055
+No ano de enchente ou inundação gradual de maior impacto para o município,Ações para evitar ou minimizar os danos causados por enchentes ou inundações graduais,"Retificação de rios, aumento de calha ou desvio de cursos dágua",MGRD1056
+No ano de enchente ou inundação gradual de maior impacto para o município,Ações para evitar ou minimizar os danos causados por enchentes ou inundações graduais,Realocação da população que vive em área de risco,MGRD1057
+No ano de enchente ou inundação gradual de maior impacto para o município,Ações para evitar ou minimizar os danos causados por enchentes ou inundações graduais,Revegetação,MGRD1058
+No ano de enchente ou inundação gradual de maior impacto para o município,Ações para evitar ou minimizar os danos causados por enchentes ou inundações graduais,Revitalização de rios ou bacias,MGRD1059
+No ano de enchente ou inundação gradual de maior impacto para o município,Ações para evitar ou minimizar os danos causados por enchentes ou inundações graduais,Outra solução,MGRD10510
+No ano de enchente ou inundação gradual de maior impacto para o município,Ações para evitar ou minimizar os danos causados por enchentes ou inundações graduais,Nenhuma intervenção,MGRD10511
+No ano de enchente ou inundação gradual de maior impacto para o município,Ações para evitar ou minimizar os danos causados por enchentes ou inundações graduais,Não sabe,MGRD10512
+O município foi atingido por enxurradas ou inundações bruscas nos últimos 4 anos,,,MGRD11
+Em que ano aconteceu a enxurrada ou inundação brusca de maior impacto para o município,,,MGRD12
+No ano de enxurrada ou inundação brusca de maior impacto para o município,Edificações foram atingidas,,MGRD131
+No ano de enxurrada ou inundação brusca de maior impacto para o município,Edificações foram atingidas,Área atingida,MGRD1311
+No ano de enxurrada ou inundação brusca de maior impacto para o município,Pessoas foram desalojadas ou ficaram desabrigadas,,MGRD132
+No ano de enxurrada ou inundação brusca de maior impacto para o município,Pessoas foram desalojadas ou ficaram desabrigadas,Área de desalojamento ou desabrigo,MGRD1321
+No ano de enxurrada ou inundação brusca de maior impacto para o município,Ocorreram óbitos,,MGRD133
+No ano de enxurrada ou inundação brusca de maior impacto para o município,Ocorreram óbitos,Área dos óbitos,MGRD1331
+No ano de enxurrada ou inundação brusca de maior impacto para o município,Áreas do município em que ocorreram as enxurradas ou inundações bruscas,Naturalmente inundáveis,MGRD1341
+No ano de enxurrada ou inundação brusca de maior impacto para o município,Áreas do município em que ocorreram as enxurradas ou inundações bruscas,Não usualmente inundáveis,MGRD1342
+No ano de enxurrada ou inundação brusca de maior impacto para o município,Áreas do município em que ocorreram as enxurradas ou inundações bruscas,Com ocupações regulares,MGRD1343
+No ano de enxurrada ou inundação brusca de maior impacto para o município,Áreas do município em que ocorreram as enxurradas ou inundações bruscas,Com ocupações irregulares,MGRD1344
+No ano de enxurrada ou inundação brusca de maior impacto para o município,Áreas do município em que ocorreram as enxurradas ou inundações bruscas,Com existência de processo erosivo acelerado,MGRD1345
+No ano de enxurrada ou inundação brusca de maior impacto para o município,Áreas do município em que ocorreram as enxurradas ou inundações bruscas,Outras áreas,MGRD1346
+No ano de enxurrada ou inundação brusca de maior impacto para o município,Áreas do município em que ocorreram as enxurradas ou inundações bruscas,Não sabe,MGRD1347
+No ano de enxurrada ou inundação brusca de maior impacto para o município,Ações para evitar ou minimizar os danos causados por enxurradas ou inundações bruscas,Barragem à montante para equalização das cheias,MGRD1351
+No ano de enxurrada ou inundação brusca de maior impacto para o município,Ações para evitar ou minimizar os danos causados por enxurradas ou inundações bruscas,Construção de canais de macrodrenagens,MGRD1352
+No ano de enxurrada ou inundação brusca de maior impacto para o município,Ações para evitar ou minimizar os danos causados por enxurradas ou inundações bruscas,Construção de parque,MGRD1353
+No ano de enxurrada ou inundação brusca de maior impacto para o município,Ações para evitar ou minimizar os danos causados por enxurradas ou inundações bruscas,Construção de reservatórios de amortecimento de cheias,MGRD1354
+No ano de enxurrada ou inundação brusca de maior impacto para o município,Ações para evitar ou minimizar os danos causados por enxurradas ou inundações bruscas,Desassoreamento de corpos hídricos,MGRD1355
+No ano de enxurrada ou inundação brusca de maior impacto para o município,Ações para evitar ou minimizar os danos causados por enxurradas ou inundações bruscas,"Retificação de rios, aumento de calha ou desvio de cursos dágua",MGRD1356
+No ano de enxurrada ou inundação brusca de maior impacto para o município,Ações para evitar ou minimizar os danos causados por enxurradas ou inundações bruscas,Realocação da população que vive em área de risco,MGRD1357
+No ano de enxurrada ou inundação brusca de maior impacto para o município,Ações para evitar ou minimizar os danos causados por enxurradas ou inundações bruscas,Revegetação,MGRD1358
+No ano de enxurrada ou inundação brusca de maior impacto para o município,Ações para evitar ou minimizar os danos causados por enxurradas ou inundações bruscas,Revitalização de rios ou bacias,MGRD1359
+No ano de enxurrada ou inundação brusca de maior impacto para o município,Ações para evitar ou minimizar os danos causados por enxurradas ou inundações bruscas,Outra solução,MGRD13510
+No ano de enxurrada ou inundação brusca de maior impacto para o município,Ações para evitar ou minimizar os danos causados por enxurradas ou inundações bruscas,Nenhuma intervenção,MGRD13511
+No ano de enxurrada ou inundação brusca de maior impacto para o município,Ações para evitar ou minimizar os danos causados por enxurradas ou inundações bruscas,Não sabe,MGRD13512
+O município foi atingido por escorregamentos ou deslizamentos de encostas nos últimos 4 anos,,,MGRD14
+Ano em que aconteceu o escorregamento ou deslizamento de encosta de maior impacto para o município,,,MGRD15
+No ano de escorregamento ou deslizamento de encosta de maior impacto para o município,Edificações foram atingidas,,MGRD161
+No ano de escorregamento ou deslizamento de encosta de maior impacto para o município,Edificações foram atingidas,Área atingida,MGRD1611
+No ano de escorregamento ou deslizamento de encosta de maior impacto para o município,Pessoas foram desalojadas ou ficaram desabrigadas,,MGRD162
+No ano de escorregamento ou deslizamento de encosta de maior impacto para o município,Pessoas foram desalojadas ou ficaram desabrigadas,Área de desalojamento ou desabrigo,MGRD1621
+No ano de escorregamento ou deslizamento de encosta de maior impacto para o município,Ocorreram óbitos,,MGRD163
+No ano de escorregamento ou deslizamento de encosta de maior impacto para o município,Ocorreram óbitos,Área dos óbitos,MGRD1631
+No ano de escorregamento ou deslizamento de encosta de maior impacto para o município,Áreas do município em que ocorreram os escorregamentos ou deslizamentos de encostas,De taludes e encostas sujeitas a deslizamentos,MGRD1641
+No ano de escorregamento ou deslizamento de encosta de maior impacto para o município,Áreas do município em que ocorreram os escorregamentos ou deslizamentos de encostas,Urbanas com processos erosivos crônicos,MGRD1642
+No ano de escorregamento ou deslizamento de encosta de maior impacto para o município,Áreas do município em que ocorreram os escorregamentos ou deslizamentos de encostas,Sem infraestrutura de drenagem,MGRD1643
+No ano de escorregamento ou deslizamento de encosta de maior impacto para o município,Áreas do município em que ocorreram os escorregamentos ou deslizamentos de encostas,Com ocupações regulares,MGRD1644
+No ano de escorregamento ou deslizamento de encosta de maior impacto para o município,Áreas do município em que ocorreram os escorregamentos ou deslizamentos de encostas,Com ocupações irregulares,MGRD1645
+No ano de escorregamento ou deslizamento de encosta de maior impacto para o município,Áreas do município em que ocorreram os escorregamentos ou deslizamentos de encostas,Sem ocupação,MGRD1646
+No ano de escorregamento ou deslizamento de encosta de maior impacto para o município,Áreas do município em que ocorreram os escorregamentos ou deslizamentos de encostas,Outras áreas,MGRD1647
+No ano de escorregamento ou deslizamento de encosta de maior impacto para o município,Áreas do município em que ocorreram os escorregamentos ou deslizamentos de encostas,Não sabe,MGRD1648
+No ano de escorregamento ou deslizamento de encosta de maior impacto para o município,Ações para evitar ou minimizar os danos causados por escorregamentos ou deslizamentos de encostas,Estabilização e proteção de taludes,MGRD1651
+No ano de escorregamento ou deslizamento de encosta de maior impacto para o município,Ações para evitar ou minimizar os danos causados por escorregamentos ou deslizamentos de encostas,Retaludamento de encostas,MGRD1652
+No ano de escorregamento ou deslizamento de encosta de maior impacto para o município,Ações para evitar ou minimizar os danos causados por escorregamentos ou deslizamentos de encostas,Obras de contenção,MGRD1653
+No ano de escorregamento ou deslizamento de encosta de maior impacto para o município,Ações para evitar ou minimizar os danos causados por escorregamentos ou deslizamentos de encostas,Construção de canais de macrodrenagens,MGRD1654
+No ano de escorregamento ou deslizamento de encosta de maior impacto para o município,Ações para evitar ou minimizar os danos causados por escorregamentos ou deslizamentos de encostas,Realocação da população que vive em área de risco,MGRD1655
+No ano de escorregamento ou deslizamento de encosta de maior impacto para o município,Ações para evitar ou minimizar os danos causados por escorregamentos ou deslizamentos de encostas,Revegetação de encostas,MGRD1656
+No ano de escorregamento ou deslizamento de encosta de maior impacto para o município,Ações para evitar ou minimizar os danos causados por escorregamentos ou deslizamentos de encostas,Outra solução,MGRD1657
+No ano de escorregamento ou deslizamento de encosta de maior impacto para o município,Ações para evitar ou minimizar os danos causados por escorregamentos ou deslizamentos de encostas,Nenhuma intervenção,MGRD1658
+No ano de escorregamento ou deslizamento de encosta de maior impacto para o município,Ações para evitar ou minimizar os danos causados por escorregamentos ou deslizamentos de encostas,Não sabe,MGRD1659
+O município possui como instrumento de planejamento,"Plano Diretor que contemple a prevenção de enchentes ou inundações graduais, ou enxurradas ou inundações bruscas",,MGRD171
+O município possui como instrumento de planejamento,"Lei de Uso e Ocupação do Solo que contemple a prevenção de enchentes ou inundações graduais, ou enxurradas ou inundações bruscas",,MGRD172
+O município possui como instrumento de planejamento,"Lei específica que contemple a prevenção de enchentes ou inundações graduais, ou enxurradas ou inundações bruscas",,MGRD173
+O município possui como instrumento de planejamento,Plano Diretor que contemple a prevenção de escorregamentos ou deslizamentos de encostas,,MGRD174
+O município possui como instrumento de planejamento,Lei de Uso e Ocupação do Solo que contemple a prevenção de escorregamentos ou deslizamentos de encostas,,MGRD175
+O município possui como instrumento de planejamento,Lei específica que contemple a prevenção de escorregamentos ou deslizamentos de encostas,,MGRD176
+O município possui como instrumento de planejamento,Plano Municipal de Redução de Riscos,,MGRD177
+O município possui como instrumento de planejamento,Carta geotécnica de aptidão à urbanização,,MGRD178
+O município possui como instrumento de planejamento,Plano de implantação de obras e serviços para redução de riscos de desastres,,MGRD179
+O município possui como instrumento de planejamento,Nenhum dos instrumentos,,MGRD1710
+"Em relação ao gerenciamento de riscos de desastres decorrentes de enchentes ou inundações graduais, ou enxurradas ou inundações bruscas, o município possui",Mapeamentos de áreas de risco de enchentes ou inundações,,MGRD181
+"Em relação ao gerenciamento de riscos de desastres decorrentes de enchentes ou inundações graduais, ou enxurradas ou inundações bruscas, o município possui","Programa habitacional para realocação de população de baixa renda em área de risco (reassentamento em empreendimento de habitação de interesse social, pagamento de aluguel social ou similar, indenização de benfeitoria, compra de uma nova moradia, auxílio ",,MGRD182
+"Em relação ao gerenciamento de riscos de desastres decorrentes de enchentes ou inundações graduais, ou enxurradas ou inundações bruscas, o município possui",Mecanismos de controle e fiscalização para evitar ocupação em áreas suscetíveis aos desastres,,MGRD183
+"Em relação ao gerenciamento de riscos de desastres decorrentes de enchentes ou inundações graduais, ou enxurradas ou inundações bruscas, o município possui",Plano de Contingência,,MGRD184
+"Em relação ao gerenciamento de riscos de desastres decorrentes de enchentes ou inundações graduais, ou enxurradas ou inundações bruscas, o município possui",Projetos de engenharia relacionados ao evento,,MGRD185
+"Em relação ao gerenciamento de riscos de desastres decorrentes de enchentes ou inundações graduais, ou enxurradas ou inundações bruscas, o município possui",Sistema de alerta antecipado de desastres,,MGRD186
+"Em relação ao gerenciamento de riscos de desastres decorrentes de enchentes ou inundações graduais, ou enxurradas ou inundações bruscas, o município possui",Cadastro de risco,,MGRD187
+"Em relação ao gerenciamento de riscos de desastres decorrentes de enchentes ou inundações graduais, ou enxurradas ou inundações bruscas, o município possui",Nenhum dos itens,,MGRD188
+"Em relação a gestão de riscos de desastres decorrentes de enchentes ou inundações graduais, ou enxurradas ou inundações bruscas, o município realiza limpeza periódica dos bueiros da cidade, especialmente, antes do período de chuvas",,,MGRD19
+"Em relação ao gerenciamento de riscos de desastres decorrentes de escorregamentos ou deslizamento de encostas, o município possui",Mapeamentos de áreas de risco de enchentes ou inundações,,MGRD201
+"Em relação ao gerenciamento de riscos de desastres decorrentes de escorregamentos ou deslizamento de encostas, o município possui","Programa habitacional para realocação de população de baixa renda em área de risco (reassentamento em empreendimento de habitação de interesse social, pagamento de aluguel social ou similar, indenização de benfeitoria, compra de uma nova moradia, auxílio ",,MGRD202
+"Em relação ao gerenciamento de riscos de desastres decorrentes de escorregamentos ou deslizamento de encostas, o município possui",Mecanismos de controle e fiscalização para evitar ocupação em áreas suscetíveis aos desastres,,MGRD203
+"Em relação ao gerenciamento de riscos de desastres decorrentes de escorregamentos ou deslizamento de encostas, o município possui",Plano de Contingência,,MGRD204
+"Em relação ao gerenciamento de riscos de desastres decorrentes de escorregamentos ou deslizamento de encostas, o município possui",Projetos de engenharia relacionados ao evento,,MGRD205
+"Em relação ao gerenciamento de riscos de desastres decorrentes de escorregamentos ou deslizamento de encostas, o município possui",Sistema de alerta antecipado de desastres,,MGRD206
+"Em relação ao gerenciamento de riscos de desastres decorrentes de escorregamentos ou deslizamento de encostas, o município possui",Cadastro de risco,,MGRD207
+"Em relação ao gerenciamento de riscos de desastres decorrentes de escorregamentos ou deslizamento de encostas, o município possui",Nenhum dos itens,,MGRD208
+"Em relação à gestão de riscos e de desastres, existe no município",Unidade do Corpo de Bombeiros,,MGRD211
+"Em relação à gestão de riscos e de desastres, existe no município",Coordenação Municipal de Proteção e Defesa Civil (COMPDEC) ou órgão similar,,MGRD212
+"Em relação à gestão de riscos e de desastres, existe no município",Núcleo de Defesa Civil (NUDECs),,MGRD213
+"Em relação à gestão de riscos e de desastres, existe no município",Guarda Municipal,,MGRD214
+"Em relação à gestão de riscos e de desastres, existe no município",Nenhuma das citadas,,MGRD215
+"Em relação à gestão de riscos e de desastres, existe no município",Não sabe,,MGRD216
+Em relação a Coordenação Municipal de Proteção e Defesa Civil (COMPDEC) ou órgão similar,O responsável pela coordenação atua exclusivamente nesta função,,MGRD221
+Em relação a Coordenação Municipal de Proteção e Defesa Civil (COMPDEC) ou órgão similar,Realiza ações articuladas e coordenadas do Sistema Municipal de Proteção e Defesa Civil,,MGRD222
+Em relação a Coordenação Municipal de Proteção e Defesa Civil (COMPDEC) ou órgão similar,Conhece o Sistema Integrado de Informações sobre Desastres - S2ID,,MGRD223
+Em relação a Coordenação Municipal de Proteção e Defesa Civil (COMPDEC) ou órgão similar,Utiliza sistema próprio na área de Proteção e Defesa Civil,,MGRD224
+Em relação a Coordenação Municipal de Proteção e Defesa Civil (COMPDEC) ou órgão similar,Há previsão de recursos para ações de proteção e defesa civil na Lei Orçamentária Anual,,MGRD225
+Em relação a Coordenação Municipal de Proteção e Defesa Civil (COMPDEC) ou órgão similar,Há outras fontes de recursos para ações de proteção e defesa civil,,MGRD226
+Em relação a Coordenação Municipal de Proteção e Defesa Civil (COMPDEC) ou órgão similar,Dispõe de espaço físico exclusivo,,MGRD227
+Em relação a Coordenação Municipal de Proteção e Defesa Civil (COMPDEC) ou órgão similar,Dispõe de viatura,,MGRD228
+Em relação a Coordenação Municipal de Proteção e Defesa Civil (COMPDEC) ou órgão similar,Dispõe de computadores,,MGRD229
+Em relação a Coordenação Municipal de Proteção e Defesa Civil (COMPDEC) ou órgão similar,Dispõe de GPS,,MGRD2210
+Em relação a Coordenação Municipal de Proteção e Defesa Civil (COMPDEC) ou órgão similar,Dispõe de coletes,,MGRD2211
+Em relação a Coordenação Municipal de Proteção e Defesa Civil (COMPDEC) ou órgão similar,Dispõe de servidores com vínculo empregatício,,MGRD2212
+Em relação a Coordenação Municipal de Proteção e Defesa Civil (COMPDEC) ou órgão similar,Dispõe de sistema de alerta antecipado de desastres,,MGRD2213
+Em relação a Coordenação Municipal de Proteção e Defesa Civil (COMPDEC) ou órgão similar,Nenhum dos itens citados,,MGRD2214
+Em relação a Coordenação Municipal de Proteção e Defesa Civil (COMPDEC) ou órgão similar,Não sabe informar,,MGRD2215
+Atividades de proteção de defesa civil,Práticas educativas voltadas para conscientização e percepção da situação de risco nas escolas,,MGRD231
+Atividades de proteção de defesa civil,Práticas educativas voltadas para conscientização e percepção da situação de risco nas comunidades,,MGRD232
+Atividades de proteção de defesa civil,Educação ambiental nas escolas,,MGRD233
+Atividades de proteção de defesa civil,Educação ambiental nas comunidades,,MGRD234
+Atividades de proteção de defesa civil,Campanhas para conscientizar a população sobre os riscos de desastres,,MGRD235
+Atividades de proteção de defesa civil,Capacitação de profissionais de proteção e defesa civil,,MGRD236
+Atividades de proteção de defesa civil,Formação de NUDECs,,MGRD237
+Atividades de proteção de defesa civil,Nenhuma das citadas,,MGRD238
+Atividades de proteção de defesa civil,Não sabe informar,,MGRD239
