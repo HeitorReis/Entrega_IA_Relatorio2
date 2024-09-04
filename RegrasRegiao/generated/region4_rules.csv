@@ -1,0 +1,2 @@
+,antecedents,consequents,antecedent support,consequent support,support,confidence,lift,leverage,conviction,zhangs_metric
+0,frozenset({'Atingido_Enxurrada'}),"frozenset({'Nao_Tem_RR_Enxurrada', 'Atingido_Enchente'})",0.3879093198992443,0.052057094878253565,0.052057094878253565,0.1341991341991342,2.577922077922078,0.031863662608099794,1.094874055415617,1.0

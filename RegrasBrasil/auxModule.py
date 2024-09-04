@@ -8,34 +8,32 @@ class GroupedAttDataset:
     
     def add_user_from_scratch( self, new_user: list ): # Add a single user to the grouped dataset
         
-        if not new_user:
-            return print('An empty user tried to be added.')
-        
         grouped_user = self.group(new_user) # Group itemsets into new itemsets
         
         self.users.append(grouped_user) # Add to the list
     
     def group( self, new_user: list ): # Group the attributes from a user
-    
+        
         grouped_user = set()
         
-        for itemset in new_user:
-        
-            if itemset[0].isnumeric():
+        for index, itemset in enumerate(new_user): # For each occurrence
+            
+            if (type(itemset[0]) is int): # Add non-binary cases (UF and Region)
+                
                 grouped_user.add(itemset)
             
             else:
-                for key, att in group_map.items():
+                for key, att in group_map.items(): # For each known binary attribute
                     
                     if type(att) != type(list()):
                         
-                        if att in itemset:
+                        if att in itemset: # Add the group of the att
                             grouped_user.add(str(key))
                     
                     else:
                         for this_code in att:
                             
-                            if this_code in itemset:
+                            if this_code in itemset: # Add the group of the att
                                 grouped_user.add(str(key))
         
         return list(grouped_user)
@@ -59,17 +57,37 @@ class GroupedAttDataset:
 
         # Create a dictionary to hold occurrences
         data = []
-
+        
         for event_list in list_of_lists:
             row = {event: 1 if event in event_list else 0 for event in unique_events}
             data.append(row)
 
         # Convert the dictionary into a DataFrame
         self.dframe = pd.DataFrame(data, columns=unique_events)
-
-
-
-
+        
+    
+    def filter_dframe ( self , gradient: float): # Removes the columns that have support higher than the limit
+        for column in self.dframe:
+            column_support = (self.dframe[column].sum() / len(self.dframe[column]))
+            if column_support > gradient:
+                self.dframe.drop(column, axis='columns', inplace=True)
+    
+    
+    def commit_users( self ): # Commit the users according to the dataframe
+        
+        new_user_list = []
+        
+        for user_index, new_user in enumerate(self.dframe.values):
+            
+            new_user_list.append(list())
+            
+            for value_index, value in enumerate(new_user):
+                
+                if value == 1:
+                    
+                    new_user_list[user_index].append(self.dframe.columns[value_index])
+        
+        self.users = new_user_list
 
 group_map = {
             'Tem_Instr_Inundacao': [
